@@ -1,4 +1,4 @@
-<script type="text/javascript" src="https://cdn.rawgit.com/jazuly/newsafelink/6f10fc32/safelinkmulti.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/jazuly/newsafelink@6f10fc32/safelinkmulti.js"></script>
 <script type="text/javascript">
 protected_links = ""; 
 auto_safelink();
