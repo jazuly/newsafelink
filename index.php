@@ -1,3 +1,3 @@
 <?php
 
-  echo 'just a testing deployment a';
+  echo 'just a testing deployment';
